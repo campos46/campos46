@@ -76,17 +76,6 @@ Soluções para reduzir tarefas manuais e aumentar a eficiência em rotinas oper
 - Decisões baseadas em dados  
 
 ---
-
-## 📫 Contato
-
-<p>
-  <a href="SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## ⭐ Sobre este perfil
 
 📌 Aqui você encontrará projetos voltados à automação, análise de dados e melhoria de processos administrativos e educacionais  
