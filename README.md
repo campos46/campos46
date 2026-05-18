@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>📊 Administração + Tecnologia + Dados</b><br/>
-  Transformo processos administrativos em soluções automatizadas
+  Transformo problemas operacionais em soluções automatizadas orientadas a dados
 </p>
 
 ---
