@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-   <img src="SEU_BANNER_AQUI" /><img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/1c7838af-e656-4784-b4e0-0e89fb3db689" />
+   <img src=/><img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/1c7838af-e656-4784-b4e0-0e89fb3db689" />
 
 </p>
 
