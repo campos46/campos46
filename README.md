@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="SEU_BANNER_AQUI" />
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000004260720eb8c4c922e1de2fef&ts=494206&p=fs&cid=1&sig=b0adba4eed74a7ef602e614abddaf49a5e3f08dfea9b7a1c4dc3043bd5bbbd40&v=0" />
 </p>
 
 <h1 align="center">👩‍💻 Sarah Campos</h1>
